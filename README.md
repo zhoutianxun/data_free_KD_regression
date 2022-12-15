@@ -43,3 +43,10 @@ Experiment can be run through jupyter notebook: mnist_regression.ipynb
 cd data_free_KD_mnist
 jupyter notebook
 ```
+
+#### Protein solubility case-study experiment
+Experiment can be run through jupyter notebook: regression_model_protein.ipynb
+```
+cd protein_solubility_case_study
+jupyter notebook
+```
