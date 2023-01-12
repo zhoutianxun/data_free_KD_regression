@@ -1,6 +1,8 @@
 # data_free_KD_regression
 
-This repository is for the study on data free knowledge distillation for regression.
+This repository contains the data and code for the paper: 
+"Synthetic data generation method for data-free knowledge distillation in regression neural networks"
+https://arxiv.org/abs/2301.04338
 
 ### Set up environment
 ```
